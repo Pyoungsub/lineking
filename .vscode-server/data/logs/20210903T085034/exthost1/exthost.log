@@ -1,0 +1,23 @@
+[2021-09-03 08:50:38.228] [exthost] [info] extension host started
+[2021-09-03 08:50:38.231] [exthost] [error] Error: EEXIST: file already exists, open '/home/david/.vscode-server/data/User/workspaceStorage/fdd918a8d984f0fd3205936aacacad34/vscode.lock'
+[2021-09-03 08:50:38.270] [exthost] [info] Lock '/home/david/.vscode-server/data/User/workspaceStorage/fdd918a8d984f0fd3205936aacacad34/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2021-09-03 08:50:38.277] [exthost] [info] Lock '/home/david/.vscode-server/data/User/workspaceStorage/fdd918a8d984f0fd3205936aacacad34/vscode.lock': The pid 902 appears to be gone.
+[2021-09-03 08:50:38.277] [exthost] [info] Lock '/home/david/.vscode-server/data/User/workspaceStorage/fdd918a8d984f0fd3205936aacacad34/vscode.lock': Deleting a stale lock.
+[2021-09-03 08:50:38.279] [exthost] [info] Lock '/home/david/.vscode-server/data/User/workspaceStorage/fdd918a8d984f0fd3205936aacacad34/vscode.lock': Lock acquired.
+[2021-09-03 08:50:38.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2021-09-03 08:50:38.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/david/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/php-language-features/dist/phpMain
+[2021-09-03 08:50:38.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-09-03 08:50:38.543] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/david/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/debug-auto-launch/dist/extension
+[2021-09-03 08:50:38.554] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-03 08:50:38.555] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/david/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/git/dist/main
+[2021-09-03 08:50:38.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-09-03 08:50:38.679] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/david/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/npm/dist/npmMain
+[2021-09-03 08:50:39.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-09-03 08:50:39.269] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/david/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/github/dist/extension.js
+[2021-09-03 08:50:39.461] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-09-03 08:50:39.461] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/david/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/ms-vscode.js-debug/src/extension.js
+[2021-09-03 08:50:40.547] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-09-03 08:50:40.547] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/david/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/emmet/dist/node/emmetNodeMain
+[2021-09-03 08:50:40.599] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-09-03 08:50:40.600] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/david/.vscode-server/bin/3866c3553be8b268c8a7f8c0482c0c0177aa8bfa/extensions/merge-conflict/dist/mergeConflictMain
+[2021-09-03 08:50:40.611] [exthost] [info] eager extensions activated

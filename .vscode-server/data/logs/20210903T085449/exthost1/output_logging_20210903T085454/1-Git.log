@@ -1,0 +1,110 @@
+Validating found git in: git
+Using git 2.25.1 from git
+Opening repository for path='/home/david/lineking' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/database/seeders' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/.editorconfig' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/.env' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/.env.example' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/.gitattributes' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/.gitignore' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/.styleci.yml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/README.md' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/app' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/artisan' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/bootstrap' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/composer.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/composer.lock' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/config' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/database' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/docker-compose.yml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/node_modules' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/package-lock.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/package.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/phpunit.xml' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/public' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/resources' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/routes' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/server.php' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/storage' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/tailwind.config.js' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/david/lineking/tests' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/vendor' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/david/lineking/webpack.mix.js' failed; ex=Error: spawn ENOTDIR

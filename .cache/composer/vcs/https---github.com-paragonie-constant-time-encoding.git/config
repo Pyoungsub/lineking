@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/paragonie/constant_time_encoding.git
+	fetch = +refs/*:refs/*
+	mirror = true
